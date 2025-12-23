@@ -4,6 +4,8 @@ InsightStream is a **Perplexity-style AI search engine** designed to build trust
 
 ---
 
+![Architecture](Architecture.png)
+
 
 ## ✨ Key Features
 
@@ -35,6 +37,8 @@ InsightStream is a **Perplexity-style AI search engine** designed to build trust
 
 ---
 
+![Mind Map](MindMap.png)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -53,6 +57,9 @@ InsightStream is a **Perplexity-style AI search engine** designed to build trust
 - **Containerization**: Docker & Docker Compose
 
 ---
+
+
+![Mind Map](Infographic.png)
 
 ## 🚀 Quick Start (Docker)
 
