@@ -4,6 +4,9 @@ InsightStream is a **Perplexity-style AI search engine** designed to build trust
 
 ---
 
+
+![Architecture](Architecture.jpg)
+
 ## ✨ Key Features
 
 ### 🎨 Cyber-Glass Aesthetics
